@@ -86,7 +86,7 @@ namespace QuestPatcher.Core.Patching
                 }
                 catch (HttpRequestException ex)
                 {
-                    Log.Warning(ex, "Failed to download libunity index");
+                    Log.Warning(ex, "Failed to download libunity index please check title if it is not finished or try looking at the README.md");
                     return null;
                 }
 
@@ -653,7 +653,7 @@ namespace QuestPatcher.Core.Patching
 
             await _installManager.NewApkInstalled(_patchedApkPath);
 
-            Log.Information("Patching complete!");
+            Log.Information("Patching complete congrats how do you like the fixed version!");
 
         }
     }
