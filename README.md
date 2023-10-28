@@ -10,3 +10,4 @@ The QMOD format used by QuestPatcher is specified [here](https://github.com/Laur
 HELLO QUESTPATCHER FIXED USERS THIS APP IS NOT FINISHED YET IF THIS IS WRONG CONTACT ME ON DISCORD VIA DC SERVER 
 LINK HERE ---> https://discord.gg/uq7HQwVb
 thank you : )
+THIS IS FORKED I AM NOT SKIDDING
